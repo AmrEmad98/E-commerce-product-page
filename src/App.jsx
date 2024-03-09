@@ -10,7 +10,7 @@ import Photos from './Components/Photos'
 
 function App() {
   const [count, setCount] = useState(0)
-
+// ui is renewed
   return (
     <>
     <Navbar />
